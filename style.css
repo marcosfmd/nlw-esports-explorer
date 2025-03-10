@@ -27,7 +27,7 @@ header {
 header figure {
   width: 120px;
   display: flex;
-  background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45c 100%);
+  background-image: linear-gradient(90deg, #fc7272 0%, #43E7AD 50.52%, #5ce2e2 100%);
   border-radius: 50%;
   margin: auto;
   padding: 4px;
